@@ -1,0 +1,2 @@
+Substr google it
+add column for ingredients table and instructions table that indicate which recipe it instructions
