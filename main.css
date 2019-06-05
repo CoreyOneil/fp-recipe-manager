@@ -203,3 +203,30 @@ input[type="checkbox"] {
   padding: 15px;
 }
 
+/*recipe page styles*/
+
+.fp_post_title {
+  float: left;
+  margin: 38px;
+}
+
+.fp_post_description {
+  text-align: center;
+}
+
+.fp_recipe_title {
+  text-align: center;
+}
+
+.fp_form_link {
+  position: relative;
+  left: 20%;
+  bottom: 350px;
+}
+
+.fp_form_link_br {
+  position: relative;
+  left: 20%;
+  bottom: 10px;
+}
+
